@@ -1,0 +1,7 @@
+Compiling SGH-M919 Kernel: Written by J, slight modification by me.
+
+Now with that out of the way lets have some fun!  This how to is for the T999 TW kernel. This guide will work for all S3 devices with minimal changes. Also the basics here will work for all devices. Also at this point the guide is only build a stock kernel without changes. That will come in another update. I will need to show you git and how to use it before you can make changes. Also if you make and changes and you share the kernel with others you have to post your source!! So you will need to know how to use github or bithub. These too will come later.
+
+
+
+First you will need to download the source for the kernel. You will need to go to http://opensource.samsung.com/ and find the source for your device. Search for m919 and grab the one named SGH-M919_TMB_JB_Opensource.zip. Or I you can grab it from my git hub. 
